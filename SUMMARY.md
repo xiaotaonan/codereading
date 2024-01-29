@@ -86,14 +86,14 @@
 * [7.6  处理标准](di-qi-zhang-bian-ma-biao-zhun-he-yue-ding/7.6-chu-li-biao-zhun.md)
 * [7.7  拓展阅读](di-qi-zhang-bian-ma-biao-zhun-he-yue-ding/7.7-tuo-zhan-yue-du.md)
 
-## 第八章  文档
+## 第八章  文档化
 
-* [8.1  文档类型](di-ba-zhang-wen-dang/8.1-wen-dang-lei-xing.md)
-* [8.2  阅读文档](di-ba-zhang-wen-dang/8.2-yue-du-wen-dang.md)
-* [8.3  文档问题](di-ba-zhang-wen-dang/8.3-wen-dang-wen-ti.md)
-* [8.4  其它文档来源](di-ba-zhang-wen-dang/8.4-qi-ta-wen-dang-lai-yuan.md)
-* [8.5  常见的开源文档格式](di-ba-zhang-wen-dang/8.5-chang-jian-de-kai-yuan-wen-dang-ge-shi.md)
-* [8.6  拓展阅读](di-ba-zhang-wen-dang/8.6-tuo-zhan-yue-du.md)
+* [8.1  文档类型](di-ba-zhang-wen-dang-hua/8.1-wen-dang-lei-xing.md)
+* [8.2  阅读文档](di-ba-zhang-wen-dang-hua/8.2-yue-du-wen-dang.md)
+* [8.3  文档问题](di-ba-zhang-wen-dang-hua/8.3-wen-dang-wen-ti.md)
+* [8.4  其它文档来源](di-ba-zhang-wen-dang-hua/8.4-qi-ta-wen-dang-lai-yuan.md)
+* [8.5  常见的开源文档格式](di-ba-zhang-wen-dang-hua/8.5-chang-jian-de-kai-yuan-wen-dang-ge-shi.md)
+* [8.6  拓展阅读](di-ba-zhang-wen-dang-hua/8.6-tuo-zhan-yue-du.md)
 
 ## 第九章  架构
 
@@ -114,3 +114,54 @@
 * [10.7  代码浏览器和美化器](di-shi-zhang-dai-ma-yue-du-gong-ju/10.7-dai-ma-liu-lan-qi-he-mei-hua-qi.md)
 * [10.8  运行时工具](di-shi-zhang-dai-ma-yue-du-gong-ju/10.8-yun-hang-shi-gong-ju.md)
 * [10.9  非软件工具](di-shi-zhang-dai-ma-yue-du-gong-ju/10.9-fei-ruan-jian-gong-ju.md)
+
+## 第十一章  完整示例
+
+* [11.1  概述](di-shi-yi-zhang-wan-zheng-shi-li/11.1-gai-shu.md)
+* [11.2  执行计划](di-shi-yi-zhang-wan-zheng-shi-li/11.2-zhi-hang-ji-hua.md)
+* [11.3  代码重用](di-shi-yi-zhang-wan-zheng-shi-li/11.3-dai-ma-zhong-yong.md)
+* [11.4  测试和调试](di-shi-yi-zhang-wan-zheng-shi-li/11.4-ce-shi-he-tiao-shi.md)
+* [11.5  文档化](di-shi-yi-zhang-wan-zheng-shi-li/11.5-wen-dang-hua.md)
+* [11.6  观察](di-shi-yi-zhang-wan-zheng-shi-li/11.6-guan-cha.md)
+
+***
+
+* [附录A：所提供代码的概要](fu-luasuo-ti-gong-dai-ma-de-gai-yao.md)
+* [附录B：源代码信用](fu-lubyuan-dai-ma-xin-yong.md)
+* [附录C：引用的源文件](fu-lucyin-yong-de-yuan-wen-jian.md)
+
+## 附录D：开源协议
+
+* [D.1  ACE](fu-ludkai-yuan-xie-yi/d.1-ace.md)
+* [D.2  Apace](fu-ludkai-yuan-xie-yi/d.2-apace.md)
+* [D.3  Argo'UML'](fu-ludkai-yuan-xie-yi/d.3-argouml.md)
+* [D.4  DemoGL](fu-ludkai-yuan-xie-yi/d.4-demogl.md)
+* [D.5  hsqldb](fu-ludkai-yuan-xie-yi/d.5-hsqldb.md)
+* [D.6  Net'BSD'](fu-ludkai-yuan-xie-yi/d.6-netbsd.md)
+* [D.7  OpenCL](fu-ludkai-yuan-xie-yi/d.7-opencl.md)
+* [D.8  Perl](fu-ludkai-yuan-xie-yi/d.8-perl.md)
+* [D.9  qtchat](fu-ludkai-yuan-xie-yi/d.9-qtchat.md)
+* [D.10  socket](fu-ludkai-yuan-xie-yi/d.10-socket.md)
+* [D.11  vcf](fu-ludkai-yuan-xie-yi/d.11-vcf.md)
+* [D.12  X Window System](fu-ludkai-yuan-xie-yi/d.12-x-window-system.md)
+
+## 附录E：阅读代码的准则
+
+* [第一章  简介](fu-lueyue-du-dai-ma-de-zhun-ze/di-yi-zhang-jian-jie.md)
+* [第二章  编程基础组成](fu-lueyue-du-dai-ma-de-zhun-ze/di-er-zhang-bian-cheng-ji-chu-zu-cheng.md)
+* [第三章  高级C数据类型](fu-lueyue-du-dai-ma-de-zhun-ze/di-san-zhang-gao-jicshu-ju-lei-xing.md)
+* [第四章  C数据结构](fu-lueyue-du-dai-ma-de-zhun-ze/di-si-zhang-cshu-ju-jie-gou.md)
+* [第五章  高级控制流](fu-lueyue-du-dai-ma-de-zhun-ze/di-wu-zhang-gao-ji-kong-zhi-liu.md)
+* [第六章  大项目跟踪](fu-lueyue-du-dai-ma-de-zhun-ze/di-liu-zhang-da-xiang-mu-gen-zong.md)
+* [第七章  编程标准和约定](fu-lueyue-du-dai-ma-de-zhun-ze/di-qi-zhang-bian-cheng-biao-zhun-he-yue-ding.md)
+* [第八章  文档化](fu-lueyue-du-dai-ma-de-zhun-ze/di-ba-zhang-wen-dang-hua.md)
+* [第九章  架构](fu-lueyue-du-dai-ma-de-zhun-ze/di-jiu-zhang-jia-gou.md)
+* [第十章  代码阅读工具](fu-lueyue-du-dai-ma-de-zhun-ze/di-shi-zhang-dai-ma-yue-du-gong-ju.md)
+* [第十一章  完整示例](fu-lueyue-du-dai-ma-de-zhun-ze/di-shi-yi-zhang-wan-zheng-shi-li.md)
+
+***
+
+* [参考书目](can-kao-shu-mu.md)
+* [Epigraph Credits](epigraph-credits.md)
+* [版权声明](ban-quan-sheng-ming.md)
+* [光盘保修](guang-pan-bao-xiu.md)
