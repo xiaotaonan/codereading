@@ -4,3 +4,5 @@
 
 # 以开源视角阅读代码
 
+## 作者：Diomidis Spinellis
+
