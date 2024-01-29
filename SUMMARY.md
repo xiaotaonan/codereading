@@ -5,7 +5,7 @@
 ## 作者：Diomidis Spinellis
 
 * [目录](zuo-zhe-diomidis-spinellis/mu-lu.md)
-* [版权声明](zuo-zhe-diomidis-spinellis/ban-quan-sheng-ming.md)
+* [版权](zuo-zhe-diomidis-spinellis/ban-quan.md)
 * [软件开发相关推荐](zuo-zhe-diomidis-spinellis/ruan-jian-kai-fa-xiang-guan-tui-jian.md)
 * [图列表](zuo-zhe-diomidis-spinellis/tu-lie-biao.md)
 * [表格列表](zuo-zhe-diomidis-spinellis/biao-ge-lie-biao.md)
@@ -163,5 +163,5 @@
 
 * [参考书目](can-kao-shu-mu.md)
 * [Epigraph Credits](epigraph-credits.md)
-* [版权声明](ban-quan-sheng-ming.md)
+* [版权页](ban-quan-ye.md)
 * [光盘保修](guang-pan-bao-xiu.md)
